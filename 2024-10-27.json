@@ -1,0 +1,26 @@
+{
+  "name": "Alice Perkins",
+  "age": 63,
+  "address": {
+    "street": "Rueto Drive",
+    "city": "Odadabo",
+    "state": "IL",
+    "zip": "43077"
+  },
+  "contact": {
+    "phone": "(354) 530-6482",
+    "servicePhone": "800412219"
+  },
+  "birthday": "1966-06-03T05:40:02.435Z",
+  "ip": "131.160.95.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Ome huv is huwciztir nezto le gawerpim gebevpo lok fupoci emwa ojga wih bu fal. Rubif ihta vavid tekdile va dereku kacazuc fu madwavu sibilci oh tod mekuvci ces wantus zud majos cagocnu. Co do wuzu faid ni nemkobaf hu ci fezak edohavul zisfom tak sepasoz gaitef ki bafkor lujepe watrek. Hupoji ca zem bog hoztel du go kahde illase otuhbog lurulce mun avtaz nuiwohec mogwij osopinu ugeko uhe. Wam ahesi mubasiwu me lawkes mefofusis june awhe erafakbo omvuvu isage luj ucuitwof ej ikunipel bucfe.",
+    "bio": "Eheczi dohik ja wodu itogepila ojowavhem fodnolcut jeltokjaj ro fi nuf kezev vehiva vebwaije wulton epkusu. Vaur ev wuffa cab dudi mu teb hamacu lehi wanap monaw sofobje je kehhepu. Kub jemesu ep sewlat vagi legilaige vu do ac foc haw lapi kasevijus fadob kotdacrac jaule."
+  },
+  "apiKey": "e1ccc956a3de27ec2c303ea0d4aef3bce7f811c62f1b38eb796423a94dede525",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
