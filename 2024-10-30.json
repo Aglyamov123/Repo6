@@ -1,0 +1,26 @@
+{
+  "name": "Terry Hanson",
+  "age": 37,
+  "address": {
+    "street": "Kued Circle",
+    "city": "Sijzuzu",
+    "state": "NC",
+    "zip": "77905"
+  },
+  "contact": {
+    "phone": "(302) 532-5523",
+    "servicePhone": "800884883"
+  },
+  "birthday": "2003-11-27T05:35:50.031Z",
+  "ip": "81.130.96.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Ivawomvos obpetze buzof japmib ehu locwad umutu ke ceczuk ro epfafu ranojteb hi kucriag. Joob zi wowzu veim nud odo loho fat awegogi abo huvig rig hu cog ecibusaj nonim. Ir kehesuih bezsojpiz bihvuber osuup wathep uga we toz mesaaze nelhoghi pejbo dow bonroim mico vijo.",
+    "bio": "Mohosji ur him hop toon vagvidbar zekawwif edgaftas hona ce ro umgu robuhu ehejozoc de. Hed wibefeg mo ed siahvu wiatu zakiv zeweji rop ge ogamo ipsaz ike ninacis zuwnaz. Tefpapwo keterro nabkajod wiemu lejiha ridjil unpe iwi ohvef noigwo rowum awdi lotzedit leremrat pi ciz."
+  },
+  "apiKey": "1c17725b75bde5248b114be4bf87b82747a3524d0f5c3704ef1cacfcbd866c1e",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
