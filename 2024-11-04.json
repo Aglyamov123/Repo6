@@ -1,0 +1,26 @@
+{
+  "name": "Lina Goodwin",
+  "age": 33,
+  "address": {
+    "street": "Amagik Pike",
+    "city": "Joitado",
+    "state": "VT",
+    "zip": "20428"
+  },
+  "contact": {
+    "phone": "(422) 703-4408",
+    "servicePhone": "800771572"
+  },
+  "birthday": "2005-06-23T01:38:21.481Z",
+  "ip": "195.220.122.185",
+  "foo": "bar",
+  "profile": {
+    "about": "Gocibe imowanif poj avi oti webav micner dilfawuha cih gakzuav junsezu opuwoji ezucunic dalemo kotfe. Ta nel tov nabku jaiko jusu lipkavkob iweuvvo sipad ciebika lamceke letwet ner mes arjiltu zomolug. Pomzoud caag ulelil zimew parvero esulojemu zaibu ocapes rotjaeri be oba legiivo rushoaj.",
+    "bio": "Altov jollon do jevgag iwevegna piuwu bacmu uwono ava jizegbam tez gedlirhen gosara hewmac waca wajtakmi. Lombo ud oga migmil egususe kirevuri kefu gucza mureab wa infobne unatuk vikaj dahzomdum sopco afbe. Jedsirol totaj rufuuta nesol imfugub ta kiksip fihhunkur ewsad ti waho zu pido."
+  },
+  "apiKey": "1f238228ae4144f3743b4c24e211cea7e18efcf09238228f43a413003e0b4272",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
