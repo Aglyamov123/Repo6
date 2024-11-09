@@ -1,0 +1,26 @@
+{
+  "name": "Richard Stanley",
+  "age": 61,
+  "address": {
+    "street": "Foku Avenue",
+    "city": "Adcaveg",
+    "state": "KS",
+    "zip": "12124"
+  },
+  "contact": {
+    "phone": "(928) 334-4791",
+    "servicePhone": "800445764"
+  },
+  "birthday": "2006-02-08T07:26:00.609Z",
+  "ip": "146.211.30.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Zuwwe egoti adi vamrap ju poar wefecaf hoadituj coz ci vopafaz li ow vohe neti hu iteaf dusu. Duhiju nofjenaj dusarto poz ceema ute tesa jugotig cegar so nuvaad oljalwa. Moj ti re afidifmor nabtuz bavo mi pasjuc ja coru nivizut ijso varehpu. Je mebu pidnom wos cug jud bilnif vica pikjanut timip jomgaug hoc kivik bo. Jehehneg nin ezoape en dozfag vag bupazrif wozeci bedidron mozzo miod zouco bu rob racogebi.",
+    "bio": "Edofima jeup gehwozne jup tur mombuk jejid eso tubacug cekidi vun futraheb jibraj fesfem maton udma. Laduseh fi be vepijih sono asi war uco aho curpati up ke etaeluto maj adelas dizle umokjed. Ufogiodi izazogut anuelfug ke ovunu uviis hiat lu li orpodif dak ez ezfonu latcedse gabsafza ibereove mu tof."
+  },
+  "apiKey": "7d7cccf41d26eb6a9dd57facfaefa19dbd653fad8577d5eda1770ebf0f68c57d",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
