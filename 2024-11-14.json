@@ -1,0 +1,26 @@
+{
+  "name": "Francis Flores",
+  "age": 23,
+  "address": {
+    "street": "Itlof Parkway",
+    "city": "Inocila",
+    "state": "VT",
+    "zip": "95173"
+  },
+  "contact": {
+    "phone": "(544) 722-6431",
+    "servicePhone": "800746935"
+  },
+  "birthday": "1993-05-29T08:20:38.171Z",
+  "ip": "81.19.55.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Deosozuc ovisuato ner zowo ekki hij mazbulbis lo achigku atakizi vudhilu zirkij valez matopda ta bepduhnaz mokcej. Lahagow evsejpi jubgopdib ubedukoc sud lemasiwe ol vajepmi nanvehe wokeg tuhi zi vucimmo kuhsad uw defme wujaro. Low gaape coc icpu je gakusrit dem rarkic ufe sufban noewa rur.",
+    "bio": "Jejuk garum taj rullupeg ruh goes do malmuz likicad midun avjibo esabizuno. Rajheki lug migro peohi zed cov ja tu ga cifi levuw jeusa bus eg fa fale gevcir af. Zaanero no joduz hop hamuwtat hempu ziirunif jugitac mivheczav tovdiozo mivwanwoc ejanofdu kan lofcuf la."
+  },
+  "apiKey": "23e8f580261ca0c150db1934157d186d30654b2282149af3c63e3596adee0e3f",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
