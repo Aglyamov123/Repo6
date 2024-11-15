@@ -1,0 +1,26 @@
+{
+  "name": "Claudia Clark",
+  "age": 34,
+  "address": {
+    "street": "Upovo Manor",
+    "city": "Visuja",
+    "state": "CT",
+    "zip": "03268"
+  },
+  "contact": {
+    "phone": "(582) 817-5274",
+    "servicePhone": "800236686"
+  },
+  "birthday": "1988-12-19T11:24:42.450Z",
+  "ip": "239.151.196.186",
+  "foo": "bar",
+  "profile": {
+    "about": "Kot ku oz vi vijugzo waul birdojuv upmuv pihojso sa bezatkom lufcu on bum sofral nih. Nejib ket ajcu liro wub digtepib zesroul ihzi aso odom ovzaz bitzikson wipgo iso zupud. Todsuzseb uwe zupahehu kad fuobvon uv wakuvwu kutefu muwhochok cam mazez fukvoda ti cuce tis oc. Ukoupe lugpivmi udcaw oce teb delcopa ta febsabsi jufeb vasetlil subhob epwu.",
+    "bio": "Joko suw sigidu ku na lunu onzi vegazime ipe cefrumrib kidaf rutale fap sacfe oco cuisgi jubuni fufel. Fihzuk sucob tewzawu hiw agori uni jobzohi movjuvaw ehke uc wutuvav diat aponuz rafanvec sagla. Dowmef juhal majtok mofo lukocahe kotiv owho guubuzo kat fol re iri bodwiczil ki esi sodilah. Ku ekodiv iromub lisir kafnuzos awu gawefut hi pujubnu faf bobbur joji ziifhab fizkatzep gi maro oju ro. Hu goavwol bupni kever sukahupe uwuheol ira weresi migfam nut cadow kaefi rep suksu ajo. Hocafpu em liwolfu nun des etpit su eti was wop owe noev la monmon kul mutpupazi elavitaw."
+  },
+  "apiKey": "b463b572bd2b5e1c5afe76abe3c43a063de5457cc4dd9c76cbdd7006d8f7f809",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
