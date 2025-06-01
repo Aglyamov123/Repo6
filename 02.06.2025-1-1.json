@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Scott Perez PhD",
+    "age": 60,
+    "address": {
+        "street": "Anthony Cape",
+        "city": "Lauramouth",
+        "state": "Texas",
+        "zip": "39716"
+    },
+    "contact": {
+        "phone": "637.693.7743",
+        "servicePhone": "800299635"
+    },
+    "birthday": "1965-14-03",
+    "ip": "12.245.19.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Leave be learn challenge third. Night nice common share never large. Scene religious what nation tree. Play door meet home.\nSoon Democrat true relationship take word.",
+        "bio": "Task group upon use traditional figure. Feel nice player. Happy necessary instead."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
