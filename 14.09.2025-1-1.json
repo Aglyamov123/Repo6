@@ -1,0 +1,25 @@
+{
+    "name": "Eric Griffith",
+    "age": 12,
+    "address": {
+        "street": "Harris Turnpike",
+        "city": "Priceville",
+        "state": "Wyoming",
+        "zip": "88478"
+    },
+    "contact": {
+        "phone": "001-338-933-7621",
+        "servicePhone": "800289532"
+    },
+    "birthday": "2013-29-08",
+    "ip": "178.4.204.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Me exist thought mind apply. Quality style plant value.\nSeek just deal citizen tend discover. Defense itself two whose. Over campaign crime.",
+        "bio": "Treat identify respond seek off. Require spend near five must current. Carry garden area. Amount or share thought worry instead."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
