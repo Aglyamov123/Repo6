@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Butler",
+    "age": 43,
+    "address": {
+        "street": "Carolyn Greens",
+        "city": "South Elizabeth",
+        "state": "Colorado",
+        "zip": "88207"
+    },
+    "contact": {
+        "phone": "201-924-8959",
+        "servicePhone": "800751859"
+    },
+    "birthday": "1982-03-06",
+    "ip": "36.10.168.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Shake amount he hot. Figure develop wrong. Production eight case paper network short.\nTask way there half page. True someone exist.",
+        "bio": "Offer Congress throughout. So event experience security house kitchen use.\nSimply bag to analysis reality after. Hotel management fact ask development Republican."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
