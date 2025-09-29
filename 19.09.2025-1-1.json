@@ -1,0 +1,25 @@
+{
+    "name": "Candice Sheppard",
+    "age": 15,
+    "address": {
+        "street": "Ronald Inlet",
+        "city": "West Wayne",
+        "state": "Delaware",
+        "zip": "34683"
+    },
+    "contact": {
+        "phone": "738-874-3704x032",
+        "servicePhone": "800907215"
+    },
+    "birthday": "2010-09-08",
+    "ip": "129.217.53.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Space tough east action whom address. Car tell the story born off. Half agent not family condition.",
+        "bio": "Occur this during three certainly put thousand.\nExperience pick listen check. Provide happy when buy military either health. Side meeting star lose gas hundred."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}

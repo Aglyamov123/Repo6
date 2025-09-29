@@ -1,0 +1,25 @@
+{
+    "name": "Michael Morgan",
+    "age": 92,
+    "address": {
+        "street": "Cooper Shoal",
+        "city": "East Catherineside",
+        "state": "Alabama",
+        "zip": "87937"
+    },
+    "contact": {
+        "phone": "380.431.6767",
+        "servicePhone": "800783199"
+    },
+    "birthday": "1933-10-09",
+    "ip": "26.53.251.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Eat tree fight including visit investment side. Difficult specific son hand care identify. Door she really energy allow personal.\nModern whom meet focus wrong today staff.",
+        "bio": "Officer bank discuss career. Chair age draw most live arrive college late. Address still bit market film close."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
