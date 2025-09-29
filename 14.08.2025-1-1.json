@@ -1,0 +1,25 @@
+{
+    "name": "Donald Wise",
+    "age": 23,
+    "address": {
+        "street": "Joseph Shoal",
+        "city": "Markview",
+        "state": "Delaware",
+        "zip": "16551"
+    },
+    "contact": {
+        "phone": "+1-316-396-6551x398",
+        "servicePhone": "800366192"
+    },
+    "birthday": "2002-22-03",
+    "ip": "60.47.100.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Face character next plan. Six result past dark may card game. Much rather sea particularly someone water might.",
+        "bio": "Lay around seat major operation. Knowledge whatever under dream those clear. Suggest those college both skin.\nPick almost conference work indicate. War do order race."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}

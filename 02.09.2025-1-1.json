@@ -1,0 +1,25 @@
+{
+    "name": "Sean Owens",
+    "age": 64,
+    "address": {
+        "street": "Smith Keys",
+        "city": "Perryberg",
+        "state": "Nevada",
+        "zip": "38596"
+    },
+    "contact": {
+        "phone": "975-360-1750",
+        "servicePhone": "800900324"
+    },
+    "birthday": "1961-07-10",
+    "ip": "188.233.94.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Investment ground late reveal. Onto bring beyond rest eight theory analysis.",
+        "bio": "Head east remember general method dream. Trade task sit as husband no player. Trade chance husband money reduce respond strategy.\nTeacher trial her yard occur everyone us. Eight stock exist describe."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Byrd",
+    "age": 56,
+    "address": {
+        "street": "Eric Village",
+        "city": "Lorishire",
+        "state": "Nevada",
+        "zip": "99619"
+    },
+    "contact": {
+        "phone": "001-234-616-2083x2318",
+        "servicePhone": "800797234"
+    },
+    "birthday": "1969-03-04",
+    "ip": "157.241.160.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Happy section management important. Hear hot game meet clear example stage.\nTend which serious rate me. Quickly loss leg of expect short any. Report red number arm rich significant.",
+        "bio": "Yard be they staff. Thing number firm gas. All yard attention day. Base Mr officer piece."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
