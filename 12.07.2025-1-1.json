@@ -1,0 +1,25 @@
+{
+    "name": "Kristin Heath",
+    "age": 6,
+    "address": {
+        "street": "Andrew Garden",
+        "city": "South John",
+        "state": "Colorado",
+        "zip": "14960"
+    },
+    "contact": {
+        "phone": "520-380-3384",
+        "servicePhone": "800283643"
+    },
+    "birthday": "2019-23-10",
+    "ip": "149.58.145.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Manage walk charge reality hotel. Show east close accept. Quickly free mouth drop discuss keep fish seem.\nOnly among throughout PM make project.",
+        "bio": "Few party task attack world share.\nPull leave pick. Amount Republican law wear cost sound most. Forward manage rich."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
