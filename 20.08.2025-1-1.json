@@ -1,0 +1,25 @@
+{
+    "name": "Janet Wall",
+    "age": 32,
+    "address": {
+        "street": "Cruz Port",
+        "city": "Bakerbury",
+        "state": "Mississippi",
+        "zip": "10376"
+    },
+    "contact": {
+        "phone": "+1-998-298-8598",
+        "servicePhone": "800738382"
+    },
+    "birthday": "1993-04-04",
+    "ip": "79.111.176.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Several method tend market. Organization personal foreign executive bill.\nSchool north class. Begin arrive turn major.",
+        "bio": "Final movie against happen series thus pull. Source describe whether four impact much.\nImprove seek instead prepare.\nFood develop suffer like. Significant at pretty control. Machine land special end."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
