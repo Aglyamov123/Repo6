@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Thomas MD",
+    "age": 36,
+    "address": {
+        "street": "Clark Ways",
+        "city": "Sarahberg",
+        "state": "Georgia",
+        "zip": "51370"
+    },
+    "contact": {
+        "phone": "776.510.0542x43398",
+        "servicePhone": "800365954"
+    },
+    "birthday": "1989-02-11",
+    "ip": "11.197.73.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Industry improve return something feel. Buy attack section wait.",
+        "bio": "Hour name above wear. War bit such be simple avoid institution.\nGirl man adult. Heavy customer eat agreement room pressure determine. Stock while son act significant budget decision."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}

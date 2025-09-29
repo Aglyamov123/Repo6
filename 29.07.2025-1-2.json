@@ -1,0 +1,25 @@
+{
+    "name": "Derrick Carter",
+    "age": 110,
+    "address": {
+        "street": "Monica Causeway",
+        "city": "Gillberg",
+        "state": "New York",
+        "zip": "98470"
+    },
+    "contact": {
+        "phone": "698-437-7075",
+        "servicePhone": "800518573"
+    },
+    "birthday": "1915-30-05",
+    "ip": "136.245.29.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Until upon course college never do trouble. Prove pass wonder. Than office card may.\nMatter rich expert. White suddenly father morning various class though. Group budget rate character.",
+        "bio": "Make size rate east provide fear. Minute whatever local these gun. Tell push change place most.\nBetween billion fill plant top second. System hard real part force."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
