@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth White",
+    "age": 30,
+    "address": {
+        "street": "Kathryn Wall",
+        "city": "Stephenport",
+        "state": "Minnesota",
+        "zip": "82284"
+    },
+    "contact": {
+        "phone": "+1-681-424-7102x7022",
+        "servicePhone": "800819464"
+    },
+    "birthday": "1995-09-11",
+    "ip": "181.147.34.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Help toward increase rather show. Mean nature police between. Shoulder movie real thus town.\nBeyond government then according hand figure. Still surface watch pressure effect PM.",
+        "bio": "Develop agent teacher source. Second set material conference writer everybody. Key base so often treat.\nSecond create final service.\nSkin sort hair remember issue. Executive cover executive even."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
