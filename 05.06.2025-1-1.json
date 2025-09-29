@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Rodriguez",
+    "age": 73,
+    "address": {
+        "street": "Mason Trail",
+        "city": "Kaneview",
+        "state": "Wyoming",
+        "zip": "10674"
+    },
+    "contact": {
+        "phone": "203.657.0795x2425",
+        "servicePhone": "800176188"
+    },
+    "birthday": "1952-09-09",
+    "ip": "183.202.13.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Although character deal security wide. Factor either commercial we must home. Charge treatment who different white human claim.",
+        "bio": "Learn moment newspaper indeed. Wide however place arm.\nFigure decide model most. Sea spring raise company sing indicate race."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
