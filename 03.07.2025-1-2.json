@@ -1,0 +1,25 @@
+{
+    "name": "Jill Stafford",
+    "age": 58,
+    "address": {
+        "street": "Powell Springs",
+        "city": "Teresachester",
+        "state": "Iowa",
+        "zip": "93306"
+    },
+    "contact": {
+        "phone": "(423)499-7266x610",
+        "servicePhone": "800984228"
+    },
+    "birthday": "1967-08-12",
+    "ip": "60.7.7.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Hear fear book my until. Star us without stand protect.\nPage politics need station. Minute trade moment fish visit study simply. Through establish attention.",
+        "bio": "Commercial yourself leave alone history decision. Police attorney hand.\nWalk travel on. Bar approach process ground forward win. Democrat culture or none box."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
