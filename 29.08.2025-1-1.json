@@ -1,0 +1,25 @@
+{
+    "name": "George Snow",
+    "age": 46,
+    "address": {
+        "street": "Walters Divide",
+        "city": "Tammychester",
+        "state": "Ohio",
+        "zip": "22140"
+    },
+    "contact": {
+        "phone": "001-939-692-1884x20820",
+        "servicePhone": "800426906"
+    },
+    "birthday": "1979-18-02",
+    "ip": "130.131.209.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Now certainly size at. Fund second girl character perhaps score war.\nWhatever there itself nearly opportunity leg. Story arm find investment figure.\nFour out tonight.",
+        "bio": "Report increase war main whose. Situation page buy sure. Arrive employee office worry account them reflect."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
