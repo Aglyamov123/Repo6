@@ -1,0 +1,25 @@
+{
+    "name": "Carlos Patrick",
+    "age": 107,
+    "address": {
+        "street": "Herrera Brooks",
+        "city": "Jennifermouth",
+        "state": "Maryland",
+        "zip": "03352"
+    },
+    "contact": {
+        "phone": "315-516-6449x58165",
+        "servicePhone": "800049824"
+    },
+    "birthday": "1918-12-08",
+    "ip": "90.130.4.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Research trip page resource amount back.\nHusband way toward. Report ground the speak. Hand walk tend high.\nThird she after weight. Option know begin. Sound party early many watch.",
+        "bio": "Building explain ok listen provide. Property cut hot understand adult.\nEffort fire someone woman chance start how. Skill husband suggest assume."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
