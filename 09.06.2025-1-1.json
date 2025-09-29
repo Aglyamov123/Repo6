@@ -1,0 +1,25 @@
+{
+    "name": "David Black",
+    "age": 22,
+    "address": {
+        "street": "Carmen Vista",
+        "city": "South Deborah",
+        "state": "Oklahoma",
+        "zip": "46714"
+    },
+    "contact": {
+        "phone": "595-701-3890",
+        "servicePhone": "800549094"
+    },
+    "birthday": "2003-22-09",
+    "ip": "92.74.50.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Nearly cost lot money. Many school they industry practice which. Large though hospital maybe paper people.\nThose voice though far evening throw interest threat.",
+        "bio": "Expert light total travel. Single situation agency. Benefit wife later talk indicate small bar wall."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
