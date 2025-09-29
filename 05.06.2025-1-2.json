@@ -1,0 +1,25 @@
+{
+    "name": "Tyler West",
+    "age": 6,
+    "address": {
+        "street": "Franco Street",
+        "city": "Luismouth",
+        "state": "Massachusetts",
+        "zip": "15599"
+    },
+    "contact": {
+        "phone": "(611)347-3661x8269",
+        "servicePhone": "800670347"
+    },
+    "birthday": "2019-25-04",
+    "ip": "33.223.74.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Summer prevent prepare. Case near certain present record culture.\nTake car them current. Spend bit board administration no film. Chair down pass paper theory appear walk.",
+        "bio": "Its natural fly city table new center affect. Bring writer impact such partner perform exist. Pretty image fire into why."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
