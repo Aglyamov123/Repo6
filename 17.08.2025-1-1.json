@@ -1,0 +1,25 @@
+{
+    "name": "Ellen Jennings",
+    "age": 107,
+    "address": {
+        "street": "Roberts Circle",
+        "city": "South Amanda",
+        "state": "Idaho",
+        "zip": "26587"
+    },
+    "contact": {
+        "phone": "952-499-6074x481",
+        "servicePhone": "800576293"
+    },
+    "birthday": "1918-07-08",
+    "ip": "97.151.111.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Just resource standard. Reflect article within. Hard poor perform business.\nTest cell nearly course four name safe. Thus force million approach top bag.",
+        "bio": "Public realize job very. Drug news part each word. Respond able serve us air professional.\nNeed special side business during. Star million eat same throughout."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
