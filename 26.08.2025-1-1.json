@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Torres",
+    "age": 31,
+    "address": {
+        "street": "Murray Port",
+        "city": "North Kaylahaven",
+        "state": "Montana",
+        "zip": "55662"
+    },
+    "contact": {
+        "phone": "+1-285-885-6745x12230",
+        "servicePhone": "800351722"
+    },
+    "birthday": "1994-26-09",
+    "ip": "164.47.129.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Physical environmental part tell sell. Throw laugh write pattern study consider term. Task white tree.\nInformation major that school drive add. Property day present.",
+        "bio": "According wide capital offer station her everyone order. Less north TV painting start fact amount."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
