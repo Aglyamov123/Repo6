@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Miller",
+    "age": 77,
+    "address": {
+        "street": "Kelly Meadow",
+        "city": "North Steventon",
+        "state": "California",
+        "zip": "11470"
+    },
+    "contact": {
+        "phone": "(954)636-8194x5108",
+        "servicePhone": "800262248"
+    },
+    "birthday": "1948-27-03",
+    "ip": "149.108.211.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Half attorney yeah. Get economy enough way sound goal guy.\nCongress station go. Identify even role one appear its. Draw weight fire.",
+        "bio": "Many carry make but oil great. Will method eye claim real north. We night woman support community job.\nBack understand religious crime opportunity should.\nArt only sport discover for trip."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
