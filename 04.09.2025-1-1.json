@@ -1,0 +1,25 @@
+{
+    "name": "Carrie Bryan",
+    "age": 9,
+    "address": {
+        "street": "Steven Views",
+        "city": "New Pamela",
+        "state": "North Carolina",
+        "zip": "62038"
+    },
+    "contact": {
+        "phone": "643.723.3681",
+        "servicePhone": "800705334"
+    },
+    "birthday": "2016-20-06",
+    "ip": "16.86.47.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Loss somebody election specific stand close station. Break tough dark continue difficult everyone. Happen just manage miss visit.",
+        "bio": "Significant here soon teach occur across a. Probably cost yourself million size.\nExpert my true current day now. Coach agreement grow over pick goal."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
