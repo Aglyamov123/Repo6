@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Grant",
+    "age": 37,
+    "address": {
+        "street": "Jamie Dale",
+        "city": "Aprilland",
+        "state": "Mississippi",
+        "zip": "11797"
+    },
+    "contact": {
+        "phone": "418.696.0043",
+        "servicePhone": "800873394"
+    },
+    "birthday": "1988-14-07",
+    "ip": "146.194.56.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Sense along want church until. Usually left environment difference TV three nature. Add analysis ball.\nFact fly spring business. Stop story term toward head central.",
+        "bio": "Later as nation speech everything popular list.\nMessage story fear may story. Cold financial wide can production."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}

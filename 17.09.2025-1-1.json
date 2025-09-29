@@ -1,0 +1,25 @@
+{
+    "name": "Anita Lee",
+    "age": 2,
+    "address": {
+        "street": "White Valley",
+        "city": "Lake Meganchester",
+        "state": "Connecticut",
+        "zip": "72465"
+    },
+    "contact": {
+        "phone": "5354935795",
+        "servicePhone": "800091415"
+    },
+    "birthday": "2023-27-10",
+    "ip": "178.215.204.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Project through image challenge this wear. Station song it no. Wife buy poor war nation so organization.",
+        "bio": "Personal feeling nation finally after body. Policy later reveal season interest. Company what ten Democrat western wonder area shoulder.\nMove act beat. Draw thousand especially."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}

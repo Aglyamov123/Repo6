@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Davis",
+    "age": 77,
+    "address": {
+        "street": "Hensley Track",
+        "city": "Christinashire",
+        "state": "Wisconsin",
+        "zip": "17809"
+    },
+    "contact": {
+        "phone": "001-623-518-1701",
+        "servicePhone": "800794037"
+    },
+    "birthday": "1948-04-12",
+    "ip": "219.191.77.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Land easy owner manager bad upon today. Thousand something lawyer tree official evidence writer. Effect government matter still hot compare.",
+        "bio": "Itself act sister institution. Human food no perhaps million. Generation miss professor strategy another board allow."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
