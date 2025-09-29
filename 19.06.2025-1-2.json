@@ -1,0 +1,25 @@
+{
+    "name": "Jill Rodriguez",
+    "age": 83,
+    "address": {
+        "street": "Johnathan Squares",
+        "city": "Gregorymouth",
+        "state": "Arizona",
+        "zip": "43254"
+    },
+    "contact": {
+        "phone": "814-609-5234",
+        "servicePhone": "800942988"
+    },
+    "birthday": "1942-25-03",
+    "ip": "157.26.155.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Team build film front could week exist. Performance apply mind better thus room process activity.",
+        "bio": "Evidence single question make which rich why reason. Who live everyone teacher car unit only. Citizen would recently west with."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}

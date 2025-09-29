@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Bush",
+    "age": 54,
+    "address": {
+        "street": "Michael Rest",
+        "city": "Butlerberg",
+        "state": "Colorado",
+        "zip": "19258"
+    },
+    "contact": {
+        "phone": "001-586-506-5043x20965",
+        "servicePhone": "800622404"
+    },
+    "birthday": "1971-21-02",
+    "ip": "179.179.193.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Minute wish likely fall so step success. Billion fly life various actually produce decide. Billion data central ten despite child election.",
+        "bio": "Mr to yard blood keep. Result style step two resource act country event.\nEnvironment deal above win yet media. Impact you executive brother so."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
