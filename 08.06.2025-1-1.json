@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Gonzalez",
+    "age": 11,
+    "address": {
+        "street": "Sanchez Drive",
+        "city": "Lake Carla",
+        "state": "Virginia",
+        "zip": "51881"
+    },
+    "contact": {
+        "phone": "484-234-0832x25785",
+        "servicePhone": "800311348"
+    },
+    "birthday": "2014-26-09",
+    "ip": "161.3.171.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Possible do left. Ball dream film condition later little never. Remain try word century many game wrong.",
+        "bio": "Just choice west owner statement record onto must. Loss lead thousand especially just interesting however."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
