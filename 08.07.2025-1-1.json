@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Hernandez",
+    "age": 66,
+    "address": {
+        "street": "Dunn Place",
+        "city": "South Amber",
+        "state": "New Jersey",
+        "zip": "55751"
+    },
+    "contact": {
+        "phone": "(442)297-4835",
+        "servicePhone": "800139491"
+    },
+    "birthday": "1959-20-11",
+    "ip": "109.44.235.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Those best remember result goal. Painting direction more type.\nJoin newspaper whether. Development lay along listen entire. Other determine reason where office.",
+        "bio": "Role free affect increase. Owner meeting standard song there table. For long pay that inside card."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
