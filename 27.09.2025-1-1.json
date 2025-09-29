@@ -1,0 +1,25 @@
+{
+    "name": "Sean Benjamin",
+    "age": 10,
+    "address": {
+        "street": "Steve Way",
+        "city": "Duncanstad",
+        "state": "New York",
+        "zip": "40808"
+    },
+    "contact": {
+        "phone": "+1-393-888-4950x2158",
+        "servicePhone": "800654742"
+    },
+    "birthday": "2015-29-07",
+    "ip": "83.7.238.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Enjoy rich would investment politics with. Hot across old that consumer feeling daughter.\nMother child take rich rather oil toward. Success open begin return story news crime.",
+        "bio": "Soldier feeling sister interest operation memory. Memory five face vote together government range. Of serious she there cup face."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}

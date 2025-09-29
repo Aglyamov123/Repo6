@@ -1,0 +1,25 @@
+{
+    "name": "Michael Rodriguez",
+    "age": 98,
+    "address": {
+        "street": "Edwards Parks",
+        "city": "Marshton",
+        "state": "Kentucky",
+        "zip": "71324"
+    },
+    "contact": {
+        "phone": "(962)584-8152x22968",
+        "servicePhone": "800773625"
+    },
+    "birthday": "1927-10-02",
+    "ip": "37.80.208.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Everyone including music daughter suggest itself someone. Administration any someone.\nLet cold campaign deep. Dinner same hospital among.",
+        "bio": "Thus collection learn test loss type. Us owner capital without several black role. Operation data those charge where.\nHow middle cell those. Top look whatever herself probably."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}

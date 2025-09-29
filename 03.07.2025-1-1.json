@@ -1,0 +1,25 @@
+{
+    "name": "Shannon Frank",
+    "age": 83,
+    "address": {
+        "street": "Cynthia Fields",
+        "city": "West Dawn",
+        "state": "Indiana",
+        "zip": "61900"
+    },
+    "contact": {
+        "phone": "675-337-8045x810",
+        "servicePhone": "800536656"
+    },
+    "birthday": "1942-09-11",
+    "ip": "26.160.231.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Do school memory.\nOccur player north expert scene. Again how second white certainly. Consumer our and.",
+        "bio": "Stop air analysis gun seven source operation. Answer north final become interview."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}

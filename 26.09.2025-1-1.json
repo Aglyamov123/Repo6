@@ -1,0 +1,25 @@
+{
+    "name": "Brian Miller",
+    "age": 107,
+    "address": {
+        "street": "Jackson Pike",
+        "city": "Thomasburgh",
+        "state": "Pennsylvania",
+        "zip": "01868"
+    },
+    "contact": {
+        "phone": "916.269.6015x4004",
+        "servicePhone": "800892273"
+    },
+    "birthday": "1918-02-02",
+    "ip": "113.235.108.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Vote perhaps then else easy.\nTest local them indeed develop chair. Former over finally Mrs care foreign sort. Only follow marriage reflect. Feel and source most.",
+        "bio": "Evidence reach sure different second music. Rise serve present main vote market within. Successful out when say concern up one."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}

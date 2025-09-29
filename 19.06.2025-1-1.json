@@ -1,0 +1,25 @@
+{
+    "name": "Mary Gomez",
+    "age": 6,
+    "address": {
+        "street": "Autumn Spur",
+        "city": "Angelland",
+        "state": "Oklahoma",
+        "zip": "33289"
+    },
+    "contact": {
+        "phone": "(478)579-3345x7812",
+        "servicePhone": "800477635"
+    },
+    "birthday": "2019-29-07",
+    "ip": "161.207.148.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Every east my class call that. Act great it. Even affect cover season.\nKeep capital where really. Must enjoy he ever value none instead once.",
+        "bio": "Course Congress technology cell onto suffer unit. Continue two increase pull institution include just scientist. Avoid me reflect participant recently sing."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}

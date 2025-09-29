@@ -1,0 +1,25 @@
+{
+    "name": "William Johnson",
+    "age": 99,
+    "address": {
+        "street": "Brandon Underpass",
+        "city": "Millerchester",
+        "state": "Pennsylvania",
+        "zip": "33696"
+    },
+    "contact": {
+        "phone": "279.269.3354",
+        "servicePhone": "800520365"
+    },
+    "birthday": "1926-28-05",
+    "ip": "76.178.167.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Information stage who PM south second perform. Need level indicate off whether.\nDoor able experience. Movie may it run good perhaps fire.",
+        "bio": "Continue year quickly. Generation present involve bring base administration. Stuff represent public ever side college.\nInclude work fly meet. Remember consumer avoid."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
