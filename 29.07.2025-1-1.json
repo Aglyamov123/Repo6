@@ -1,0 +1,25 @@
+{
+    "name": "Deanna Gross",
+    "age": 58,
+    "address": {
+        "street": "Theresa Plaza",
+        "city": "North Jacobbury",
+        "state": "Florida",
+        "zip": "75823"
+    },
+    "contact": {
+        "phone": "+1-268-469-0589",
+        "servicePhone": "800950331"
+    },
+    "birthday": "1967-28-09",
+    "ip": "68.1.234.200",
+    "foo": "bar",
+    "profile": {
+        "about": "This administration team property popular question. Coach five admit keep. Detail soldier opportunity peace well under sense. World country security always before stand.",
+        "bio": "Cup PM wonder message forward class usually determine. Machine treat for service system."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
